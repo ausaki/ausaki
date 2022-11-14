@@ -1,7 +1,3 @@
-我是一名 Python Developer, 主要擅长 web 后端开发.
-
-我的一些项目:
-
 - [subfinder](https://github.com/ausaki/subfinder), 一个查找字幕的小工具.
 - [python-validator](https://github.com/ausaki/python-validator), 一个类似于 Django ORM 的数据校验库.
 - [python-source-code-notes](https://github.com/ausaki/python-source-code-notes), CPython 源码笔记.
