@@ -7,4 +7,3 @@
 - [python-source-code-notes](https://github.com/ausaki/python-source-code-notes), CPython 源码笔记.
 - [cpython](https://github.com/ausaki/cpython), CPython 源码注释.
 - [data_structures_and_algorithms](https://github.com/ausaki/data_structures_and_algorithms), 数据结构和算法, 包括 LeetCode 题解.
-- [mit.6.828](https://github.com/ausaki/mit.6.828), MIT 6.828 课程源码和笔记.
